@@ -2,10 +2,10 @@ const express = require("express");
 const app = express();
 const port = process.env.PORT || 3000;
 
-const firstName = "April";
-const lastName = "Rosales";
-const age = 22;
-const schoolEmail = "apur.rosales.swu@phinmaed.com";
+const firstName = "Nathaniel";
+const lastName = "Nacario";
+const age = 21;
+const schoolEmail = "nare.nacario.swu@phinmaed.com";
 
 validateEmail = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
